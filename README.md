@@ -3,4 +3,6 @@
 - A Structured Self-attentive Sentence Embedding [[arxiv](https://arxiv.org/abs/1703.03130)]
 - Massive Exploration of Neural Machine Translation Architectures [[arxiv](https://arxiv.org/abs/1703.03906)]
 
+#### 2018-05
+- Universal Language Model Fine-tuning for Text Classification [[arxiv](https://arxiv.org/abs/1801.06146)]
 
